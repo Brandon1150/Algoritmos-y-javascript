@@ -1,0 +1,22 @@
+EJERCICIO 2
+
+Pseudocódigo para calcular el área de un circulo
+
+
+Inicio
+
+//Definición de variables
+
+       constante real:pi←3.1416
+       varialbe real:r,a
+//Lectura de datos
+
+Escribir("Ingresar el radio")
+Leer(r)
+
+//Calcular el área
+a ← pi*r*r
+Escribir(El áre del circulo es",a)
+
+
+Fin
