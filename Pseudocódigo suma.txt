@@ -1,0 +1,15 @@
+//variables:
+
+Entero:n1,n2nvsuma
+
+//LEctura de dato
+
+Escribir("Ingresar número 1")
+Leer(n1)
+Escribir("Ingresar número 2")
+Leer(n2)
+
+/Calculo de suma:
+
+vsuma←n1+n2
+Escribir("La suma es",vsuma)
